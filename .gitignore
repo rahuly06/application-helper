@@ -1,0 +1,4 @@
+.env
+master-resume.md
+.venv/
+__pycache__/
